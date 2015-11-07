@@ -4,6 +4,8 @@ This repository contains supplementary material for the Exploits of the
 Social Web portion of [Matthew Kirschenbaum]'s Critical Topics in Digital 
 Studies ([ENGL 668K]) class. 
 
+## Slides
+
 * [November 10, 2015]
 
 [Matthew Kirschenbaum]: https://twitter.com/mkirschenbaum
