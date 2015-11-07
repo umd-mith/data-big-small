@@ -8,4 +8,4 @@ Studies ([ENGL 668K]) class.
 
 [Matthew Kirschenbaum]: https://twitter.com/mkirschenbaum
 [ENGL 668K]: https://www.english.umd.edu/courses/fall-2015/engl668k-7081
-[November 10, 2015]: https://edsu.github.io/exploits-of-the-social-web/slides/part1/
+[November 10, 2015]: https://umd-mith.github.io/exploits-of-the-social-web/slides/part1/
